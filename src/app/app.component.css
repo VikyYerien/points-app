@@ -1,0 +1,22 @@
+#inpName{
+    margin-right: 1vw;
+    margin-bottom: 1vh;
+}
+
+#main{
+    background-color: #515152;
+    min-height: 100vh;
+}
+
+.container{
+    padding-top: 2vh;
+}
+
+#resetBtn{
+    margin-right: 1vw;
+    color: white;
+}
+
+#addPlayerBtn{
+    color: white;
+}
